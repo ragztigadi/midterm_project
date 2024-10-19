@@ -23,5 +23,6 @@ To run this project, you need to have Python installed on your machine. You can 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ragztigadi/midterm_project.git
+[   git clone https://github.com/ragztigadi/midterm_project.git
    cd midterm_project
+](https://github.com/ragztigadi/midterm_project.git)
